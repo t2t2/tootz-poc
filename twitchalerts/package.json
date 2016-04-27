@@ -1,0 +1,9 @@
+{
+  "name": "tootz-pocs-twitchalerts",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "^2.72.0",
+    "socket.io-client": "^1.4.5"
+  }
+}
